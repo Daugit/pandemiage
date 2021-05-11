@@ -2,6 +2,7 @@ package fr.dauphine.ja.pandemiage.common;
 
 import java.util.List;
 
+
 /**
  * Interface that every AI must implements in order to be called by a game.
  * Engine will invoke an AI via reflection and then call the AI via these
